@@ -20,10 +20,18 @@ android {
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile fileTree(include: ['*.jar'], dir: 'libs')
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
     compile 'com.android.support:appcompat-v7:25.2.0'
     testCompile 'junit:junit:4.12'
+    compile files('libs/aliyun-oss-sdk-android-2.3.0.jar')
+    compile files('libs/BaiduLBS_Android.jar')
+    compile files('libs/BmobSMS_V1.2.1_20161201.jar')
+    compile files('libs/butterknife-7.0.1.jar')
+    compile files('libs/glide-3.7.0.jar')
+    compile files('libs/jpush-android-2.1.7.jar')
+    compile files('libs/jsoup-1.7.1.jar')
+    compile files('libs/ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar')
 }

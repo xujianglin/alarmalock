@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_136eaec4741e978509fe65621e8cd69696944f42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_8fe27d3890d79382b2f7e4fb692cca637c41fa15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\libs\Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85a46b29703ef8930a92d2fdea8ff336275c7ab2">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\2\Msc_042411f0b5147da2dbcc5df9e059af6a20d462a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_188eba42e61ade99005485266ddec80609f5c3fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\libs\BmobSMS_V1.2.1_20161201.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e94f711451e7ddfe70d4f69ff5638ee981bbe438">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\2\BmobSMS_V1.2.1_20161201_729b48f2b054f6a8a43c976e5209a6a061d9f331\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\libs\locSDK_6.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2cdb37444b41b42e1ce5a8a27e5d3c22e1c57479">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\2\locSDK_6.13_daadc94ec179c0583d61fff5ac54cee939ed4d24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\libs\okio-1.10.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c4b316c469df09d8b5b173def1dfd79881a38310">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.10.0_c4f993406167986f98458931a5e514f7ec266ac0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="00ffd8a3fb935fb4e4c2a74491720eef6085a7f6">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b0d53b78a048fca7ed7fe1beceb6a82e0d6235be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\libs\universal-image-loader-1.9.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.3_4c5f3f4c87e0998015652230fee04fd0abb23eb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_072c29da5f4d115f10e6b11bf2bd10a044b42ba3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\libs\jpush-android-2.1.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="38dd284400de7ff5fab09098a1b8fd30cc5980c7">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\2\jpush-android-2.1.7_4c4d1e0794ebd3484842de4cbc28c8bc8ed42d1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_ef1444e77f7d0d47e7c1369ca4c23530dd2de86e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="323e422f40574acf324f541bc7fa85fc9b5c670f">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_479f7f5a69c4c268e81ef807945babf45cfa3e79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\libs\umeng-analytics-v5.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="75ef4894b1489017838dc57dbe9a5782ab12c427">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-analytics-v5.4.2_7c1b536fea100463cbc01f7c9de4a818efcf7cf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\libs\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\2\glide-3.7.0_494292b0e7b1b591e5bfde4fb2b60b9a596a8bb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="475c8368f93b3cbec093dd2f7a0c72ea025f3eb7">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e44cffdff34278a2f45a1e35467de5a195a8f136\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.SC-201604161054\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_2d3bcc35525b70a1a83744365f9fdbe3a6399d23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\2\ksoap2-android-assembly-3.0.0-jar-with-dependencies_1637bdf8c440bd4e92714225de5a045b71cae472\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\libs\jsoup-1.7.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="99351550d1fa2e8147319dbafd3f3a79d4f4c6e5">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.7.1_d38b8cfaeb9ee104ef6ee633ec05a711ea5e246b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\libs\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\2\butterknife-7.0.1_63ef103776a19fbea7e547eaa44c49f0ce062457\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\libs\aliyun-oss-sdk-android-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7a793de62a8d797f5f9fd2796bd5d877009f16a">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\2\aliyun-oss-sdk-android-2.3.0_3b445f78fdef6525ad86636fd57c437a8cb32587\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\libs\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-3.4.1_ba1e19bf6666b4fd8a10dcaee62026088f4e0af0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\XUNFEI\MyApplication3\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="C:\XUNFEI\MyApplication3\app\build\intermediates\transforms\dex\debug\folders\1000\2\pinyin4j-2.5.0_a6bf562ce8c6ea264c8d3bb2f6c278a94bae49a9\classes.dex" />
+    </item>
+
+</items>
